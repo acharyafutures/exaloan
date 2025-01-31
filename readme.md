@@ -8,10 +8,10 @@ The project aims to get the anomalities in the provided loan data so as to ease 
 - File structure:
 ```
 Exaloan
-│   .env
 │    output.xlsx
 │    requirements.txt
 │    README.pdf
+│    readme.md
 └─── Project
     │   detect_anomaly.py
     │   detect_anomaly_vector.py
@@ -19,7 +19,6 @@ Exaloan
     │   naive_approach.ipynb
     │   session_state.py
     │   utils.py
-    │   readme.md
     └───uploaded_files
         test.xlsx
     
